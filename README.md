@@ -1,5 +1,5 @@
 ## 304CEM_Assignment_VSCode
-- By Teoh Joe Virn (11599342|P19010843)
+- By Teoh Joe Virn (11599342 | P19010843)
 - 304CEM Web API Development Assignment
 
 ### APIs Used
